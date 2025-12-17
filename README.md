@@ -124,6 +124,6 @@ Uploaded file is beingprocessed.
 ![Home Screen](output/File_upload.png)
 
 Query raised and answer is generated.
-![Home Screen](Query_answer_generation/home.png)
+![Home Screen](output/Query_answer_generation.png)
 
 
