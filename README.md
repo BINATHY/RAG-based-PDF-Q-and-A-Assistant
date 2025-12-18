@@ -74,7 +74,7 @@ ollama pull nomic-embed-text
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/BINATHY/RAG-based-PDF-Q-and-A-Assistant.git
-cd pdf-qa-rag-system
+
 
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
